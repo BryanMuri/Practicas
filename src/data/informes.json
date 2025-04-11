@@ -1,0 +1,80 @@
+[
+  {
+    "id": "sec-001",
+    "title": "INFORMACIÓN SECTOR",
+    "fecha": "2024-03-15",
+    "tipo": "sectorial",
+    "descripcion": "Información completa sobre el sector industrial",
+    "tags": ["normativas", "mercado"],
+    "children": [
+      {
+        "id": "norm-001",
+        "title": "NORMATIVAS",
+        "fecha": "2024-02-10",
+        "tipo": "regulatorio",
+        "children": [
+          {
+            "id": "norm-t1",
+            "title": "NORMAS TIPO 1",
+            "fecha": "2024-01-05",
+            "tipo": "seguridad",
+            "children": [
+              {
+                "id": "norm-1a",
+                "title": "Norma 1A: Seguridad industrial",
+                "fecha": "2023-12-15",
+                "tipo": "seguridad"
+              },
+              {
+                "id": "norm-1b",
+                "title": "Norma 1B: Calidad de productos",
+                "fecha": "2023-11-20",
+                "tipo": "calidad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "est-001",
+        "title": "ESTUDIOS DE MERCADO",
+        "fecha": "2024-03-01",
+        "tipo": "analisis",
+        "children": [
+          {
+            "id": "est-pub",
+            "title": "ESTUDIOS PÚBLICOS",
+            "fecha": "2024-02-15",
+            "children": [
+              {
+                "id": "tend-2024",
+                "title": "Informe de tendencias 2024",
+                "fecha": "2024-01-30"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comp-001",
+    "title": "INFORMACIÓN COMPETENCIA",
+    "fecha": "2024-03-10",
+    "tipo": "competencia",
+    "children": [
+      {
+        "id": "emp-001",
+        "title": "EMPRESA 1",
+        "fecha": "2024-02-20",
+        "children": [
+          {
+            "id": "fin-emp1",
+            "title": "Reporte financiero 2024",
+            "fecha": "2024-01-31"
+          }
+        ]
+      }
+    ]
+  }
+]

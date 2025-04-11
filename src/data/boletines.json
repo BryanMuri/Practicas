@@ -1,0 +1,78 @@
+[
+  {
+    "title": "BOLETINES",
+    "children": [
+      {
+        "title": "BOLETINES MENSUALES",
+        "children": [
+          {
+            "title": "Enero 2024",
+            "children": [
+              "Resumen de noticias",
+              "Análisis económico",
+              "Tendencias tecnológicas"
+            ]
+          },
+          {
+            "title": "Febrero 2024",
+            "children": [
+              "Informe de mercados",
+              "Innovaciones en energía",
+              "Impacto del clima"
+            ]
+          },
+          {
+            "title": "Marzo 2024",
+            "children": [
+              "Avances en salud",
+              "Reporte de empleo",
+              "Perspectivas globales"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "BOLETINES ESPECIALES",
+        "children": [
+          {
+            "title": "Inteligencia Artificial",
+            "children": [
+              "Avances en IA",
+              "Ética en IA",
+              "Aplicaciones prácticas"
+            ]
+          },
+          {
+            "title": "Sostenibilidad",
+            "children": [
+              "Energías renovables",
+              "Economía circular",
+              "Políticas verdes"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "BOLETINES REGIONALES",
+        "children": [
+          {
+            "title": "América Latina",
+            "children": [
+              "Perspectivas económicas",
+              "Desafíos políticos",
+              "Cultura y sociedad"
+            ]
+          },
+          {
+            "title": "Europa",
+            "children": [
+              "Brexit y sus consecuencias",
+              "Innovación tecnológica",
+              "Turismo sostenible"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
