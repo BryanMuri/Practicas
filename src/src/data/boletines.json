@@ -1,0 +1,89 @@
+[
+  {
+    "title": "BOLETINES",
+    "link": "https://example.com/boletines",
+    "children": [
+      {
+        "title": "BOLETINES MENSUALES",
+        "link": "https://example.com/boletines/boletines-mensuales",
+        "children": [
+          {
+            "title": "Enero 2024",
+            "link": "https://example.com/boletines/boletines-mensuales/enero-2024",
+            "children": [
+              "Resumen de noticias",
+              "Análisis económico",
+              "Tendencias tecnológicas"
+            ]
+          },
+          {
+            "title": "Febrero 2024",
+            "link": "https://example.com/boletines/boletines-mensuales/febrero-2024",
+            "children": [
+              "Informe de mercados",
+              "Innovaciones en energía",
+              "Impacto del clima"
+            ]
+          },
+          {
+            "title": "Marzo 2024",
+            "link": "https://example.com/boletines/boletines-mensuales/marzo-2024",
+            "children": [
+              "Avances en salud",
+              "Reporte de empleo",
+              "Perspectivas globales"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "BOLETINES ESPECIALES",
+        "link": "https://example.com/boletines/boletines-especiales",
+        "children": [
+          {
+            "title": "Inteligencia Artificial",
+            "link": "https://example.com/boletines/boletines-especiales/inteligencia-artificial",
+            "children": [
+              "Avances en IA",
+              "Ética en IA",
+              "Aplicaciones prácticas"
+            ]
+          },
+          {
+            "title": "Sostenibilidad",
+            "link": "https://example.com/boletines/boletines-especiales/sostenibilidad",
+            "children": [
+              "Energías renovables",
+              "Economía circular",
+              "Políticas verdes"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "BOLETINES REGIONALES",
+        "link": "https://example.com/boletines/boletines-regionales",
+        "children": [
+          {
+            "title": "América Latina",
+            "link": "https://example.com/boletines/boletines-regionales/america-latina",
+            "children": [
+              "Perspectivas económicas",
+              "Desafíos políticos",
+              "Cultura y sociedad"
+            ]
+          },
+          {
+            "title": "Europa",
+            "link": "https://example.com/boletines/boletines-regionales/europa",
+            "children": [
+              "Brexit y sus consecuencias",
+              "Innovación tecnológica",
+              "Turismo sostenible"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

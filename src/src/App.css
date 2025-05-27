@@ -1,0 +1,31 @@
+
+.panel-filtros {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 5px;
+}
+.card {
+  margin-bottom: 1rem;
+}
+
+.btn {
+  margin-right: 0.5rem;
+}
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+  height: 100vh; 
+  overflow-y: auto; 
+}
+
+.main-content {
+  padding: 20px;
+}
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.navbar .btn {
+  font-weight: 500; 
+}
